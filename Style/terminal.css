@@ -1,0 +1,29 @@
+Screen {
+  align: center middle;
+}
+
+VerticalScroll {
+  background: black;
+  color: green;
+  height: 100%;
+}
+
+#console {
+  height: auto;
+  color: green;
+  background: transparent;
+  padding: 0 0;
+  margin: 0 0;
+}
+
+#command {
+  border: none;
+  padding: 0 0;
+  width: 100%;
+  color: green;
+  background: transparent;
+}
+
+#path {
+  width: auto;
+}
