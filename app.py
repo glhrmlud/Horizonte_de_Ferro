@@ -16,7 +16,7 @@ class Terminal(App):
   def compose(self) -> ComposeResult:
     with VerticalScroll(classes='box'):
       yield RichLog(id='console', auto_scroll=True)
-      with Horizontal(classes='type-box'):
+      with Horizontal(classes='child-box'):
         yield Static(id='path')
         yield Input(id='command')
 

@@ -3,25 +3,28 @@ Screen {
 }
 
 VerticalScroll {
-  background: black;
-  color: green;
+  background: #0A0A0A;
+  border: heavy #FFB000;
+  padding: 1 2;
   height: 100%;
+  color: #FFB000;
 }
 
 #console {
   height: auto;
-  color: green;
   background: transparent;
   padding: 0 0;
   margin: 0 0;
+  color: #FFB000;
+
 }
 
 #command {
   border: none;
   padding: 0 0;
   width: 100%;
-  color: green;
   background: transparent;
+  color: #FFB000;
 }
 
 #path {
