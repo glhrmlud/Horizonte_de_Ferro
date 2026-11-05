@@ -1,4 +1,4 @@
-from commands_logic import help, cd
+from commands_logic import COMMAND_REGISTRY
 from terminal_logic import print_execute_comand
 from textual.app import App, ComposeResult
 from textual import on
@@ -49,51 +49,31 @@ class Terminal(App):
   # Executado quando um comando é digitado
   @on(Input.Submitted, '#command')
   def process_command(self, event: Input.Submitted) -> None:
-    event.input.value = '' #limpando input
-
-    command = event.value.replace(' ', '').lower()
     console = self.query_one('#console', RichLog)
 
-    #exit
-    if command == 'exit':
-      self.exit()
+    event.input.value = '' #limpando input
 
-    #help
-    elif command == 'help':
-      print_execute_comand(console, command, self.current_path, self.base_virtual_path)
-      help(console)
+    command = event.value.lower().split(maxsplit=1) #tratando comando recebido
+    command_name = command[0]
+    args = command[1] if len(command) > 1 else ''
+    if command_name == 'help': args = console #em caso de ser o help 
 
-    #clear
-    elif command == 'clear':
-      console.clear()
+    if command_name in COMMAND_REGISTRY:
+      command_info = COMMAND_REGISTRY[command_name]
+      handler = command_info["handler"]
 
-    #cd
-    elif command[:2] == 'cd':
-      #exibindo comando executado na tela
-      print_execute_comand(console, command, self.current_path, self.base_virtual_path)
+      result = handler(args, self.current_path, self.BASE_DIR)
 
-      #executando o comando solicitado
-      result_cd = cd(command, self.current_path, self.BASE_DIR)
-
-      #erro de caminho inexistente
-      if not result_cd: 
-        #exibindo erro no terminal
-        console.write("O sistema não pode encontrar o caminho especificado\n")
+      if command_name == 'help':
+        return
       else:
-        #atualizando path em que o usuario sem encontra
-        self.current_path = Path(result_cd)
-
-        #mostrando visualmente que o path foi atualizado
-        path_element = self.query_one('#path', Static)
-        path_element.update(f'{self.base_virtual_path}{self.current_path}>')
-
-    #erro de comando
-    elif command == '':
-      print_execute_comand(console, command, self.current_path, self.base_virtual_path)
-    else: 
-      print_execute_comand(console, command, self.current_path, self.base_virtual_path)
-      console.write(f'{command} não é reconhecido como um comando')
-
+        if isinstance(result, Path):
+          self.current_path = result
+        elif result is False:
+          console.write("[bold red]Erro: Diretório inválido ou fora dos limites[/bold red]")
+    else:
+      console.write(f"[red]Comando '{command_name}' não reconhecido.[/red]")
+      
     #garante que o terminal exiba a linha de input
     self.query_one('.box', VerticalScroll).scroll_end(animate=False)
 if __name__ == "__main__":
