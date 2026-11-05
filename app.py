@@ -15,7 +15,7 @@ class Terminal(App):
   # Estrutura do terminal
   def compose(self) -> ComposeResult:
     with VerticalScroll(classes='box'):
-      yield RichLog(id='console', auto_scroll=True)
+      yield RichLog(id='console', auto_scroll=True, markup=True)
       with Horizontal(classes='child-box'):
         yield Static(id='path')
         yield Input(id='command')
@@ -57,7 +57,6 @@ class Terminal(App):
     command = event.value.lower().split(maxsplit=1) #tratando comando recebido
     command_name = command[0]
     args = command[1] if len(command) > 1 else ''
-    if command_name == 'help': args = console #em caso de ser o help 
 
     print_execute_comand(console, event.value, self.current_path, self.base_virtual_path)
 
@@ -65,17 +64,16 @@ class Terminal(App):
       command_info = COMMAND_REGISTRY[command_name]
       handler = command_info["handler"]
 
-      result = handler(args, self.current_path, self.BASE_DIR)
+      result = handler(self, args)
     
       if isinstance(result, Path):
-        self.current_path = result
+        self.current_path = result.resolve()
         pathElement.update(f'{self.base_virtual_path}{self.current_path}>')
       elif isinstance(result, str):
         console.write(result)
-      elif result == None:
-        pass
       elif result is False:
         console.write("[bold red]Erro: Diretório inválido ou fora dos limites[/bold red]")
+
     else:
       console.write(f"[red]Comando '{command_name}' não reconhecido.[/red]")
 
