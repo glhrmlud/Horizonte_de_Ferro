@@ -50,6 +50,7 @@ class Terminal(App):
   @on(Input.Submitted, '#command')
   def process_command(self, event: Input.Submitted) -> None:
     console = self.query_one('#console', RichLog)
+    pathElement = self.query_one('#path', Static)
 
     event.input.value = '' #limpando input
 
@@ -58,22 +59,26 @@ class Terminal(App):
     args = command[1] if len(command) > 1 else ''
     if command_name == 'help': args = console #em caso de ser o help 
 
+    print_execute_comand(console, event.value, self.current_path, self.base_virtual_path)
+
     if command_name in COMMAND_REGISTRY:
       command_info = COMMAND_REGISTRY[command_name]
       handler = command_info["handler"]
 
       result = handler(args, self.current_path, self.BASE_DIR)
-
-      if command_name == 'help':
-        return
-      else:
-        if isinstance(result, Path):
-          self.current_path = result
-        elif result is False:
-          console.write("[bold red]Erro: Diretório inválido ou fora dos limites[/bold red]")
+    
+      if isinstance(result, Path):
+        self.current_path = result
+        pathElement.update(f'{self.base_virtual_path}{self.current_path}>')
+      elif isinstance(result, str):
+        console.write(result)
+      elif result == None:
+        pass
+      elif result is False:
+        console.write("[bold red]Erro: Diretório inválido ou fora dos limites[/bold red]")
     else:
       console.write(f"[red]Comando '{command_name}' não reconhecido.[/red]")
-      
+
     #garante que o terminal exiba a linha de input
     self.query_one('.box', VerticalScroll).scroll_end(animate=False)
 if __name__ == "__main__":
