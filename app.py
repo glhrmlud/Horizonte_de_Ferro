@@ -51,7 +51,7 @@ class Terminal(App):
   def process_command(self, event: Input.Submitted) -> None:
     event.input.value = '' #limpando input
 
-    command = event.value.strip().lower()
+    command = event.value.replace(' ', '').lower()
     console = self.query_one('#console', RichLog)
 
     #exit

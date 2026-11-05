@@ -15,7 +15,7 @@ def help(console, command = False):
     console.write(f'{c}')
 
 def cd(comand, current_path:Path, BASE_DIR):
-  required_path = comand[3:] #path solicitado pelo usuário
+  required_path = comand[2:] #path solicitado pelo usuário
   target_path:Path = (current_path / required_path).resolve()
 
   if not target_path.is_relative_to(BASE_DIR): return False
