@@ -17,7 +17,7 @@ class Terminal(App):
   CSS_PATH = 'ui/style/terminal.css'
 
   # -- variável que indica qual o diretório de origem --
-  BASE_DIR = (Path(__file__).resolve().parent.parent / 'galanis-group').resolve()
+  BASE_DIR = (Path(__file__).resolve().parent.parent / 'galanis_group').resolve()
 
   # -- estrutura TUI --
   def compose(self) -> ComposeResult:
