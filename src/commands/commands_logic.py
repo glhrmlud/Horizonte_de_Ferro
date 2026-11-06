@@ -25,7 +25,7 @@ def handler_cd(app, args: str) -> Path | bool:
   target_path = (app.current_path / args).resolve()
 
   if target_path.is_relative_to(app.BASE_DIR) and target_path.exists() and target_path.is_dir():
-    return target_path.relative_to(app.BASE_DIR.parent)
+    return target_path 
 
   return False
 
@@ -39,12 +39,6 @@ def handler_clear(app, args: str) -> None:
 
 @register_command("dir", description='Lista conteúdo dentro de um diretório')
 def handler_dir(app, args: str) -> str | bool:
-  if args:
-    dir_arg:Path = app.current_path / args
-    if dir_arg.is_dir() and dir_arg.exists() and dir_arg.is_relative_to(app.current_path):
-      list_archives = [i.name for i in dir_arg.iterdir()]
-      return "\n".join(list_archives)
-    return False
   if args == '/s':
     list_archives = []
     for i in sorted(app.current_path.rglob("*")):
@@ -53,5 +47,13 @@ def handler_dir(app, args: str) -> str | bool:
       indent = " " * deep
       list_archives.append(f"{indent}|--- {i.name}")
     return "\n".join(list_archives)
+  
+  if args:
+      dir_arg:Path = app.current_path / args
+      if dir_arg.is_dir() and dir_arg.exists() and dir_arg.is_relative_to(app.current_path):
+        list_archives = [i.name for i in dir_arg.iterdir()]
+        return "\n".join(list_archives)
+      return False
+  
   list_archives = [i.name for i in app.current_path.iterdir()]
   return "\n".join(list_archives)
