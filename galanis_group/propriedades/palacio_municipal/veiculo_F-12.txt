@@ -1,0 +1,22 @@
+┌──────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                    │
+│ DOCUMENTO HF-R019 // VEÍCULO F-12                                        │
+├──────────────────────────────────────────────────────────────────────────┤
+│ ORIGEM: Garagem municipal                                                │
+│ CLASSIFICAÇÃO: INVESTIGATIVO / ETAPA 02                                  │
+│ ARQUIVO: Locais / Palácio Municipal                                      │
+├──────────────────────────────────────────────────────────────────────────┤
+│ REGISTRO PRINCIPAL                                                       │
+│ A ficha da garagem informa saída do F-12 sob justificativa de transporte │
+│ técnico e retorno após o período de restrição de acesso. O campo de      │
+│ motorista contém apenas um código de plantão. A diferença de peso foi    │
+│ registrada em balança com calibração recente, mas não revela a natureza  │
+│ da carga. Uma testemunha relatou veículo semelhante nas Margens.         │
+├──────────────────────────────────────────────────────────────────────────┤
+│ PONTOS PARA CONFERÊNCIA                                                  │
+│ O documento deve ser comparado com: Depoimento das Margens / Recibo de   │
+│ William.                                                                 │
+│ A informação isolada não constitui prova conclusiva de autoria.          │
+├──────────────────────────────────────────────────────────────────────────┤
+│ FIM DO DOCUMENTO                                                         │
+└──────────────────────────────────────────────────────────────────────────┘

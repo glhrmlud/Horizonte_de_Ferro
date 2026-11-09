@@ -1,0 +1,22 @@
+┌──────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                    │
+│ DOCUMENTO HF-R012 // FICHA DO NANOLINK                                   │
+├──────────────────────────────────────────────────────────────────────────┤
+│ ORIGEM: Manual técnico                                                   │
+│ CLASSIFICAÇÃO: INVESTIGATIVO / ETAPA 01                                  │
+│ ARQUIVO: Equipamentos / Nanolink                                         │
+├──────────────────────────────────────────────────────────────────────────┤
+│ REGISTRO PRINCIPAL                                                       │
+│ O Nanolink é usado por prestadores e funcionários para validar serviços  │
+│ em áreas restritas. Ele guarda carimbos de sincronização e códigos       │
+│ parciais de terminais, mas não comprova sozinho quem o portava. Um       │
+│ registro de pareamento com a rede municipal pode corresponder a          │
+│ atualização legítima ou a preparação de acesso. A perícia solicitou a    │
+│ cadeia completa de autenticações.                                        │
+├──────────────────────────────────────────────────────────────────────────┤
+│ PONTOS PARA CONFERÊNCIA                                                  │
+│ O documento deve ser comparado com: Log do Nanolink.                     │
+│ A informação isolada não constitui prova conclusiva de autoria.          │
+├──────────────────────────────────────────────────────────────────────────┤
+│ FIM DO DOCUMENTO                                                         │
+└──────────────────────────────────────────────────────────────────────────┘
