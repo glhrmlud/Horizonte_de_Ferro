@@ -30,8 +30,8 @@ def handler_cd(app, args: str) -> Path | bool:
   return False
 
 @register_command("exit", description="Fecha o terminal, terminando o jogo")
-def handler_exit(app, args: str) -> None:
-  app.exit()
+def handler_exit(screen, args: str) -> None:
+  screen.app.exit()
 
 @register_command("clear", description="Limpa o terminal")
 def handler_clear(app, args: str) -> None:
@@ -57,3 +57,24 @@ def handler_dir(app, args: str) -> str | bool:
   
   list_archives = [i.name for i in app.current_path.iterdir()]
   return "\n".join(list_archives)
+
+@register_command('type', description="Utilizado para listar o conteúdo de um arquivo")
+def handler_type(app, args: str) -> str:
+  if not args:
+    return "[bold red]Comando digitado incorretamente \n Uso correto: type <nome_do_arquivo>[/bold red]"
+
+  target_archive = (app.current_path / args).resolve()
+  
+  if target_archive.is_relative_to(app.BASE_DIR):
+    if not target_archive.exists():
+      return f"[red]Arquivo '{args}' não encontrado no diretório atual.[/]"
+    if target_archive.is_dir():
+        return f"[red]'{args}' é um diretório. Use 'dir' para listar o conteúdo.[/]"
+    try:
+      with open(target_archive, 'r', encoding='utf-8') as f:
+        content = f.read()
+      return f"{content}"
+    except Exception as e:
+      return "[bold red]Erro ao acessar arquivo... Tente novamente[/]"
+  else:
+    return "[bold red]Acesso negado: Tentativa de violação de segurança detectada.[/]" 

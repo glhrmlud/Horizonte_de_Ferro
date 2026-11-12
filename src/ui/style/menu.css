@@ -1,0 +1,39 @@
+MenuStructure {
+  width: 100%;
+  height: 100%;
+  align: center middle;
+  background: #0A0A0A;
+}
+
+#title {
+  color: #FFB000;
+  margin-bottom: 2;
+  height: auto;
+  width: 100%;
+  content-align: center middle; /* Centraliza o conteúdo no meio da caixa */
+  text-align: center;           /* Força as letras do Figlet para o centro */
+}
+
+#btn-box {
+  width: 100%;
+  height: auto;
+  align: center middle;
+}
+
+#start-btn {
+  margin-right: 2;
+}
+
+/* Cor base do botão (exemplo) */
+Button {
+  width: 30;
+  background: #222222;
+  color: white;
+}
+
+/* Quando o botão está selecionado (focado) */
+Button:focus {
+  background: #FFB000;
+  color: black;
+  text-style: bold;
+}
