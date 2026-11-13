@@ -127,6 +127,7 @@ class TerminalScreen(Screen):
     self.response = draw_truth()
     generate_archives_galanis(self.BASE_DIR, field_map(self.response))
 
+    self.query_one("#console", RichLog).write(self.response)
     # -- animação de entrada do terminal
     self.init_animation()
 

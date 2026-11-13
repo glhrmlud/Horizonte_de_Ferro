@@ -1,6 +1,7 @@
 from pathlib import Path
 from textual.widgets import RichLog, TextArea
 from core.file_generator import draw_truth, field_map, generate_archives_galanis
+import core.terminal_logic as terminal #lógica do sistema
 
 COMMAND_REGISTRY = {}
 
@@ -133,7 +134,8 @@ def handler_palpite(app, args: str) -> str:
   w = app.response["weapon_crime"].strip().lower()
   
   if [p_guilty, p_arma, p_local] == [g, w, l]:
-    return "[bold green]CRIPTOGRAFIA QUEBRADA. ACESSO ROOT CONCEDIDO. A VERDADE FOI REVELADA![/]"
+    terminal.result_comand(app=app,command_name="reset",command_registry=COMMAND_REGISTRY, args="")
+    return "[bold green]CRIPTOGRAFIA QUEBRADA. ACESSO ROOT CONCEDIDO. A VERDADE FOI REVELADA!\nJOGO REINICIADO SINTA-SE A VONTADE PARA JOGAR NOVAMENTE[/]"
   else:
     # 3. A PUNIÇÃO: Em vez de só retornar texto, mandamos a Tela surtar!
     app.init_descon()
