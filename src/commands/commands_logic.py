@@ -108,7 +108,23 @@ def handler_notepade(app, args: str) -> str:
 # -- Comando palpite
 @register_command("palpite", description="Dá palpite do culapado, arma e local", sintax="palpite <culpado>;<arma>;<local>")
 def handler_palpite(app, args: str) -> str:
-  pass
+  palpite = args.split(";")
+
+  if len(palpite) != 3:
+    return "[red]Sintaxe incorreta! Use: palpite <culpado>;<arma>;<local>[/]"
+
+  p_guilty = palpite[0].strip().lower()
+  p_arma = palpite[1].strip().lower()
+  p_local = palpite[2].strip().lower()
+
+  g = app.response["guilty"].strip().lower()
+  l = app.response["local_crime"].strip().lower()
+  w = app.response["weapon_crime"].strip().lower()
+  
+  if [p_guilty, p_arma, p_local] == [g, w, l]:
+    return True # (Você pode retornar "[green]VITÓRIA![/]" aqui se preferir)
+  else:
+    return False # (Você pode retornar "[red]ERROU![/]" ou ativar o comando reset)
 
 # -- Comando reset
 @register_command("reset", description="Reseta o jogo", sintax="reset - reinicia o jogo, alterando o culpado do crime")
