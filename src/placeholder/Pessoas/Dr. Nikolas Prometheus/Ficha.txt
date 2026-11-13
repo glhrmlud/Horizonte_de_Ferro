@@ -1,11 +1,11 @@
 ﻿┌────────────────────────────────────────────────────────────────────────────┐
 │ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ {Dr. Nikolas Prometheus}                                                   │
+│ Dr. Nikolas Prometheus                                                     │
 │                                                                            │
-│ Engenheiro biotecnológico que idealizou e criou a {BiOS}, codinome         │
-│ {Logos-7}, dentro do projeto liderado por {César Galanis}. Metódico e      │
-│ reservado, conhece os limites do sistema e tem acesso aos laboratórios do  │
-│ {Grupo Galanis}.                                                           │
+│ Engenheiro biotecnológico que idealizou e criou a BiOS, codinome Logos-7,  │
+│ dentro do projeto liderado por César Galanis. Metódico e reservado,        │
+│ conhece os limites do sistema e tem acesso aos laboratórios do Grupo       │
+│ Galanis.                                                                   │
 │                                                                            │
 │ POR QUE INVESTIGAR                                                         │
 │ Poderia retirar a arma para interromper uma experiência não autorizada ou  │

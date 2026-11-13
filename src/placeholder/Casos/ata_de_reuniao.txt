@@ -5,7 +5,7 @@
 │ REGISTRO ADAPTADO — BASE HF-075                                            │
 │                                                                            │
 │ Em uma reunião em {lcs5}, {spt5} pediu que a equipe entendesse             │
-│ os riscos da carga em {obj1} antes de se aproximar do recipiente. {spt7}   │
+│ os riscos da carga antes de se aproximar do recipiente. {spt7}             │
 │ anotou a preocupação de moradores com a circulação de cargas perto         │
 │ das áreas residenciais.                                                    │
 │                                                                            │

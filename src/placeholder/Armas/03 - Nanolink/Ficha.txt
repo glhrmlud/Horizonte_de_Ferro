@@ -1,6 +1,6 @@
 ﻿┌────────────────────────────────────────────────────────────────────────────┐
 │ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ {Nanolink}                                                                 │
+│ Nanolink                                                                   │
 │                                                                            │
 │ DESCRIÇÃO                                                                  │
 │ Módulo cibernético implantado no pulso, usado para autenticação,           │
@@ -15,8 +15,8 @@
 │ material restrito segue seu próprio procedimento.                          │
 │                                                                            │
 │ REGISTROS RECUPERADOS                                                      │
-│ Uma ficha situa o aparelho nas {Margens}. Uma autenticação recebida        │
-│ depois aparece associada ao {laboratório}. A equipe preservou os           │
+│ Uma ficha situa o aparelho nas Margens. Uma autenticação recebida          │
+│ depois aparece associada ao laboratório. A equipe preservou os             │
 │ horários de ambos os registros para verificar a ordem dos eventos.         │
 │                                                                            │
 │ PARA A INVESTIGAÇÃO                                                        │

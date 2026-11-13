@@ -1,9 +1,9 @@
 ﻿┌────────────────────────────────────────────────────────────────────────────┐
 │ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ {Punhal Galanis}                                                           │
+│ Punhal Galanis                                                             │
 │                                                                            │
 │ DESCRIÇÃO                                                                  │
-│ Relíquia cerimonial ornamentada, com brasão da família {Galanis}           │
+│ Relíquia cerimonial ornamentada, com brasão da família Galanis             │
 │ e cabo trabalhado em metal. Faz                                            │
 │ parte do inventário privado e costuma ficar em uma vitrine. Os             │
 │ termos de custódia registram quando uma peça sai para conservação,         │
@@ -11,7 +11,7 @@
 │                                                                            │
 │ REGISTRO DE CUSTÓDIA                                                       │
 │ A ficha de conservação não foi atualizada no último ciclo. Um              │
-│ funcionário relatou ter visto {Marcus} com a peça fora da residência,      │
+│ funcionário relatou ter visto Marcus com a peça fora da residência,        │
 │ mas o relato não veio acompanhado de foto ou termo de retirada.            │
 │                                                                            │
 │ PARA A INVESTIGAÇÃO                                                        │

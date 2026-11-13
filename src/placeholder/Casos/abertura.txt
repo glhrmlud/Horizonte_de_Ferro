@@ -4,9 +4,9 @@
 │                                                                            │
 │ Na cidade vertical, a elite controla recursos que faltam nos bairros       │
 │ inferiores. O desaparecimento do diretor do projeto e a retirada sem       │
-│ aval do recipiente {obj1}, que guardava uma arma biotecnológica,           │
-│ mobilizaram a equipe. O recipiente tinha uma fita                          │
-│ azul. Descubra quem ordenou o roubo, qual item foi usado e de onde         │
+│ aval de um recipiente com uma arma biotecnológica mobilizaram a            │
+│ equipe. O recipiente tinha uma fita azul. Descubra quem ordenou o roubo,   │
+│ qual item foi usado e de onde                                              │
 │ saiu a carga. Comece pelo Registro de transferência. O Controle de         │
 │ saída e o Inventário do turno completam o caso. Os demais registros        │
 │ reúnem relatos e ocorrências de rotina para dar contexto.                  │

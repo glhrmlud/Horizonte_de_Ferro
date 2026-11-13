@@ -1,6 +1,6 @@
 ﻿┌────────────────────────────────────────────────────────────────────────────┐
 │ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ {As Margens}                                                               │
+│ As Margens                                                                 │
 │                                                                            │
 │ Região de oficinas, passarelas e acessos de serviço. A iluminação          │
 │ dificulta reconhecer placas e rostos. A estação de carga registra o lacre  │

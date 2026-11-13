@@ -1,6 +1,6 @@
 ﻿┌────────────────────────────────────────────────────────────────────────────┐
 │ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ {Sentinela MK-VII}                                                         │
+│ Sentinela MK-VII                                                           │
 │                                                                            │
 │ DESCRIÇÃO                                                                  │
 │ Unidade robótica de vigilância patrimonial. Patrulha corredores,           │
@@ -15,7 +15,7 @@
 │                                                                            │
 │ REGISTRO RECUPERADO                                                        │
 │ O histórico tem uma lacuna de imagem no turno investigado. Há uma          │
-│ ordem de manutenção válida, emitida de um terminal externo à {Torre}.      │
+│ ordem de manutenção válida, emitida de um terminal externo à Torre.        │
 │ A imagem de quem solicitou a ordem não foi preservada.                     │
 │                                                                            │
 │ PARA A INVESTIGAÇÃO                                                        │

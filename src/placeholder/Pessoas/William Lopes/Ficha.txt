@@ -1,13 +1,13 @@
 ﻿┌────────────────────────────────────────────────────────────────────────────┐
 │ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ {William Lopes}                                                            │
+│ William Lopes                                                              │
 │                                                                            │
-│ Adolescente marginalizado acolhido pela {Tenebris}. Impulsivo e            │
-│ resiliente, conhece rotas clandestinas nas {Margens} e procura             │
-│ reconhecimento. Sua passagem por uma rota ou contato com alguém não basta  │
-│ para atribuir autoria.                                                     │
+│ Adolescente marginalizado acolhido pela Tenebris. Impulsivo e resiliente,  │
+│ conhece rotas clandestinas nas Margens e procura reconhecimento. Sua       │
+│ passagem por uma rota ou contato com alguém não basta para atribuir        │
+│ autoria.                                                                   │
 │                                                                            │
 │ POR QUE INVESTIGAR                                                         │
 │ Uma missão de roubo ou recuperação poderia render reconhecimento dentro da │
-│ {Tenebris}. Ele conhece rotas pouco vigiadas.                              │
+│ Tenebris. Ele conhece rotas pouco vigiadas.                                │
 └────────────────────────────────────────────────────────────────────────────┘

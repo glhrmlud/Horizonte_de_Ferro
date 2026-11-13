@@ -1,6 +1,6 @@
 ﻿┌────────────────────────────────────────────────────────────────────────────┐
 │ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ {Exoesqueleto 01}                                                          │
+│ Exoesqueleto 01                                                            │
 │                                                                            │
 │ DESCRIÇÃO                                                                  │
 │ Estrutura mecânica vestível do almoxarifado técnico. Foi projetada         │

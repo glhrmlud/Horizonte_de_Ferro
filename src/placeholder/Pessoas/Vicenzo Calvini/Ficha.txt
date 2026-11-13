@@ -1,12 +1,12 @@
 ﻿┌────────────────────────────────────────────────────────────────────────────┐
 │ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ {Vicenzo Calvini}                                                          │
+│ Vicenzo Calvini                                                            │
 │                                                                            │
-│ Prefeito recém-reeleito de {Caelum}. Carismático em público e calculista   │
-│ em particular, depende politicamente do {Grupo Galanis}. Tem acesso a      │
-│ despachos sobre transporte, segurança e circulação do {Logos-7}.           │
+│ Prefeito recém-reeleito de Caelum. Carismático em público e calculista em  │
+│ particular, depende politicamente do Grupo Galanis. Tem acesso a despachos │
+│ sobre transporte, segurança e circulação do Logos-7.                       │
 │                                                                            │
 │ POR QUE INVESTIGAR                                                         │
 │ Uma retirada clandestina poderia ocultar despachos comprometedores ou      │
-│ fortalecer sua posição nas negociações com a família {Galanis}.            │
+│ fortalecer sua posição nas negociações com a família Galanis.              │
 └────────────────────────────────────────────────────────────────────────────┘
