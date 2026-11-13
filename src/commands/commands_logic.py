@@ -3,23 +3,29 @@ from textual.widgets import RichLog, TextArea
 
 COMMAND_REGISTRY = {}
 
-def register_command(name: str, description:str):
+def register_command(name: str, description:str, sintax: str):
   def decorator(func):
     COMMAND_REGISTRY[name] = {
       "description": description,
       "handler": func,
+      "sintaxe": sintax, 
     }
     return func
   return decorator
 
 # -- Comando HELP
-@register_command("help", description="Para obter mais informações sobre um comando específico digite HELP nome_do_comando")
+@register_command("help", description="Para obter mais informações sobre um comando específico digite HELP nome_do_comando", sintax="help - exibe os comando disponíveis\nhelp <nome_comando> - exibe mais detalhes do comando digitado")
 def handler_help(app, args: str) -> str:
+  if args != '' and args in COMMAND_REGISTRY:
+    return COMMAND_REGISTRY[args]["sintaxe"]
+  if args != '':
+    return f"[red] Comando {args} não existe [/]"
+    
   command_list = [f"{n}: {i['description']}\n" for n, i in COMMAND_REGISTRY.items()]
   return "\n".join(command_list)
 
 # -- Comando CD
-@register_command("cd", description="Altera o diretório atual")
+@register_command("cd", description="Altera o diretório atual", sintax="cd <nome_dir> - abre o diretório digitado\ncd <caminho_dir> - abre o caminho do diretório digitado")
 def handler_cd(app, args: str) -> Path | bool:
   if args == '':
     return app.current_path
@@ -32,17 +38,17 @@ def handler_cd(app, args: str) -> Path | bool:
   return False
 
 # -- Comando EXIT
-@register_command("exit", description="Fecha o terminal, terminando o jogo")
+@register_command("exit", description="Fecha o terminal, terminando o jogo", sintax="exit - fecha o terminal")
 def handler_exit(screen, args: str) -> None:
   screen.app.exit()
 
 # -- Comando CLEAR
-@register_command("clear", description="Limpa o terminal")
+@register_command("clear", description="Limpa o terminal", sintax="clear - limpa o terminal")
 def handler_clear(app, args: str) -> None:
   app.query_one("#console", RichLog).clear()
 
 # -- Comando DIR
-@register_command("dir", description='Lista conteúdo dentro de um diretório')
+@register_command("dir", description='Lista conteúdo dentro de um diretório', sintax="dir - mostra pastas e arquivos dentro do diretório atual\ndir /s - mostra toda a árvore de arquivos dentro do diretório atual")
 def handler_dir(app, args: str) -> str | bool:
   if args == '/s':
     list_archives = []
@@ -64,7 +70,7 @@ def handler_dir(app, args: str) -> str | bool:
   return "\n".join(list_archives)
 
 # -- Comando TYPE
-@register_command('type', description="Utilizado para listar o conteúdo de um arquivo")
+@register_command('type', description="Listar o conteúdo de um arquivo", sintax="type <nome_arquivo> - Lista todo o conteúdo de um arquivo")
 def handler_type(app, args: str) -> str:
   if not args:
     return "[bold red]Comando digitado incorretamente \n Uso correto: type <nome_do_arquivo>[/bold red]"
@@ -86,7 +92,7 @@ def handler_type(app, args: str) -> str:
     return "[bold red]Acesso negado: Tentativa de violação de segurança detectada.[/]"
 
 # -- Comando notepad
-@register_command("notepad", description="Ativa e desativa o notepad")
+@register_command("notepad", description="Ativa e desativa o notepad", sintax="notepad - abre um bloco de nota ao lado do terminal")
 def handler_notepade(app, args: str) -> str:
   notepad = app.query_one("#notepad", TextArea)
 
@@ -97,3 +103,8 @@ def handler_notepade(app, args: str) -> str:
   else:
     notepad.focus()
     return "[green]Bloco de notas aberto."
+
+# -- Comando palpite
+@register_command("palpite", description="Dá palpite do culapado, arma e local", sintax="palpite <culpado>;<arma>;<local>")
+def handler_palpite(app, args: str) -> str:
+  pass
