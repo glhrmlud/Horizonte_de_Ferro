@@ -4,11 +4,13 @@ from textual.app import App
 # -- imports de telas --
 from ui.menu_screen import MenuScreen
 from ui.terminal_screen import TerminalScreen
+from ui.story_screen import StoryScreen 
 
 # -- class do App --
 class GalanisApp(App):
   SCREENS = {
     "menu": MenuScreen,
+    "story": StoryScreen,
     "terminal": TerminalScreen,
   }
 

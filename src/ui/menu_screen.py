@@ -17,7 +17,7 @@ class MenuStructure(Vertical):
     yield Static(logo_art, id="title")
 
     # -- Caixa botões
-    with Horizontal(id="btn-box"):
+    with Vertical(id="btn-box"):
       yield Button("Começar Investigação", id="start-btn")
       yield Button("Desistir", id="quit-btn")
 
@@ -46,7 +46,7 @@ class MenuScreen(Screen):
   # -- Começar jogo (iniciar Terminal)
   @on(Button.Pressed, "#start-btn")
   def start_game(self, event: Button.Pressed) -> None:
-    self.app.push_screen("terminal")
+    self.app.push_screen("story")
 
   # -- Fechar jogo
   @on(Button.Pressed, "#quit-btn")
