@@ -117,18 +117,32 @@ def handler_palpite(app, args: str) -> str:
   p_arma = palpite[1].strip().lower()
   p_local = palpite[2].strip().lower()
 
+  nomes_pessoas = [p.lower() for p in app.catalog["pessoas"]]
+  nomes_armas = [a.lower() for a in app.catalog["armas"]]
+  nomes_locais = [l.lower() for l in app.catalog["locais"]]
+
+  if p_guilty not in nomes_pessoas:
+    return f"[red]ERRO 404: Indivíduo '{palpite[0].strip()}' não consta nos registros do Grupo Galanis.[/]"
+  if p_arma not in nomes_armas:
+    return f"[red]ERRO 404: Objeto '{palpite[1].strip()}' desconhecido na investigação.[/]"
+  if p_local not in nomes_locais:
+    return f"[red]ERRO 404: Setor '{palpite[2].strip()}' não encontrado no mapa de Caelum.[/]"
+
   g = app.response["guilty"].strip().lower()
   l = app.response["local_crime"].strip().lower()
   w = app.response["weapon_crime"].strip().lower()
   
   if [p_guilty, p_arma, p_local] == [g, w, l]:
-    return True # (Você pode retornar "[green]VITÓRIA![/]" aqui se preferir)
+    return "[bold green]CRIPTOGRAFIA QUEBRADA. ACESSO ROOT CONCEDIDO. A VERDADE FOI REVELADA![/]"
   else:
-    return False # (Você pode retornar "[red]ERROU![/]" ou ativar o comando reset)
+    # 3. A PUNIÇÃO: Em vez de só retornar texto, mandamos a Tela surtar!
+    app.init_descon()
+    
+    # Retorna uma string vazia porque a tela já vai cuidar de mostrar o erro
+    return ""
 
 # -- Comando reset
 @register_command("reset", description="Reseta o jogo", sintax="reset - reinicia o jogo, alterando o culpado do crime")
 def handler_reset(app, args:str) -> str:
-  app.self.response = draw_truth()
-  generate_archives_galanis(app.BASE_DIR, field_map(app.self.response))
-  app.app.push_screen("menu")
+  app.response = draw_truth()
+  generate_archives_galanis(app.BASE_DIR, field_map(app.response))

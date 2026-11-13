@@ -8,7 +8,6 @@ import os
 # -- Sorteador Culpados
 def draw_truth() -> dict:
   path_catalog = (Path(__file__).resolve().parent / 'catalog.json').resolve()
-  print(path_catalog)
 
   with open(path_catalog, 'r', encoding='utf-8') as f:
     catalog = json.load(f)

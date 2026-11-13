@@ -8,6 +8,9 @@ import asyncio
 import random as r
 
 # -- imports de componentes lógicos
+import random
+import string
+import json
 from textual import on, work
 from pathlib import Path
 from commands.commands_logic import COMMAND_REGISTRY #comando do sistema
@@ -76,6 +79,38 @@ class TerminalScreen(Screen):
     # -- focus no input --
     input.disabled = False
     input.focus()
+
+  
+  @work(exclusive=True)
+  async def init_descon(self) -> None:
+    console = self.query_one('#console', RichLog)
+    input_cmd = self.query_one('#command', Input)
+
+    input_cmd.disabled = True 
+    
+    console.write("\n[bold red]ATENÇÃO: DIVERGÊNCIA CRÍTICA DE DADOS.[/]")
+    await asyncio.sleep(1)
+    console.write("[bold red]FIREWALL DO GRUPO GALANIS ATIVADO. RASTREANDO IP...[/]")
+    await asyncio.sleep(1.5)
+    
+    # Efeito Glitch: Imprime 15 a 20 linhas de lixo hexadecimal/ASCII
+    for _ in range(20):
+      caracteres_loucos = string.ascii_uppercase + string.digits + "!@#$%&*?_X"
+      lixo = ''.join(random.choices(caracteres_loucos, k=50))
+      
+      console.write(f"[red]{lixo}[/]")
+
+      await asyncio.sleep(random.uniform(0.02, 0.1)) 
+        
+    console.write("\n[bold red]CONEXÃO PERDIDA. FORÇANDO REINICIALIZAÇÃO...[/]\n")
+    await asyncio.sleep(2)
+    
+    console.clear()
+    console.write("[yellow]Reestabelecendo nova conexão proxy... (O caso foi resetado)[/]")
+    
+    terminal.result_comand(app=self,command_name="reset",command_registry=COMMAND_REGISTRY, args="")
+
+    self.app.exit()
     
   # -- executado quando o terminal é iniciado --
   def on_mount(self) -> None:
@@ -85,6 +120,10 @@ class TerminalScreen(Screen):
     self.base_virtual_path = 'C:\\Usuarios\\Admin\\' #inicio do caminho que aparece no TUI
 
     # -- dicionário resposta
+    path_catalog = (Path(__file__).resolve().parent.parent / 'core' / 'catalog.json').resolve()
+    with open(path_catalog, 'r', encoding='utf-8') as f:
+      self.catalog = json.load(f)
+
     self.response = draw_truth()
     generate_archives_galanis(self.BASE_DIR, field_map(self.response))
 
