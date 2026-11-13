@@ -1,5 +1,5 @@
 from pathlib import Path
-from textual.widgets import RichLog
+from textual.widgets import RichLog, TextArea
 
 COMMAND_REGISTRY = {}
 
@@ -12,11 +12,13 @@ def register_command(name: str, description:str):
     return func
   return decorator
 
+# -- Comando HELP
 @register_command("help", description="Para obter mais informações sobre um comando específico digite HELP nome_do_comando")
 def handler_help(app, args: str) -> str:
-  command_list = [f"{n}: {i['description']}" for n, i in COMMAND_REGISTRY.items()]
+  command_list = [f"{n}: {i['description']}\n" for n, i in COMMAND_REGISTRY.items()]
   return "\n".join(command_list)
 
+# -- Comando CD
 @register_command("cd", description="Altera o diretório atual")
 def handler_cd(app, args: str) -> Path | bool:
   if args == '':
@@ -29,14 +31,17 @@ def handler_cd(app, args: str) -> Path | bool:
 
   return False
 
+# -- Comando EXIT
 @register_command("exit", description="Fecha o terminal, terminando o jogo")
 def handler_exit(screen, args: str) -> None:
   screen.app.exit()
 
+# -- Comando CLEAR
 @register_command("clear", description="Limpa o terminal")
 def handler_clear(app, args: str) -> None:
   app.query_one("#console", RichLog).clear()
 
+# -- Comando DIR
 @register_command("dir", description='Lista conteúdo dentro de um diretório')
 def handler_dir(app, args: str) -> str | bool:
   if args == '/s':
@@ -58,6 +63,7 @@ def handler_dir(app, args: str) -> str | bool:
   list_archives = [i.name for i in app.current_path.iterdir()]
   return "\n".join(list_archives)
 
+# -- Comando TYPE
 @register_command('type', description="Utilizado para listar o conteúdo de um arquivo")
 def handler_type(app, args: str) -> str:
   if not args:
@@ -77,4 +83,17 @@ def handler_type(app, args: str) -> str:
     except Exception as e:
       return "[bold red]Erro ao acessar arquivo... Tente novamente[/]"
   else:
-    return "[bold red]Acesso negado: Tentativa de violação de segurança detectada.[/]" 
+    return "[bold red]Acesso negado: Tentativa de violação de segurança detectada.[/]"
+
+# -- Comando notepad
+@register_command("notepad", description="Ativa e desativa o notepad")
+def handler_notepade(app, args: str) -> str:
+  notepad = app.query_one("#notepad", TextArea)
+
+  notepad.toggle_class("hidden")
+
+  if notepad.has_class("hidden"):
+    return "[yellow]Bloco de notas fechado.[/]"
+  else:
+    notepad.focus()
+    return "[green]Bloco de notas aberto."

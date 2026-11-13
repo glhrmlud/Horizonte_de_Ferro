@@ -2,7 +2,7 @@
 from textual.screen import Screen
 from textual.app import ComposeResult
 from textual.containers import VerticalScroll, Horizontal
-from textual.widgets import RichLog, Input, Static
+from textual.widgets import RichLog, Input, Static, TextArea
 from pyfiglet import Figlet
 import asyncio
 import random as r
@@ -32,7 +32,10 @@ class TerminalScreen(Screen):
 
   # -- estrutura TUI --
   def compose(self) -> ComposeResult:
-    yield TerminalStructure(classes="box")
+    with Horizontal(id="main-screen-container"):
+      yield TerminalStructure(id="terminal-structure")
+
+      yield TextArea("--- ANOTAÇÕES DO CASO ---\n\n", id="notepad", classes="hidden")
 
   # -- animação de inicio do terminal
   @work
@@ -87,12 +90,12 @@ class TerminalScreen(Screen):
     path_element.update(f'{self.base_virtual_path}{self.relative_current_path}>')
 
     # -- localizando input, caso o terminal esteja muito pequeno --
-    self.query_one('.box', TerminalStructure).scroll_end(animate=False)
+    self.query_one('#terminal-structure', TerminalStructure).scroll_end(animate=False)
 
   # -- executado quando usuário atualiza input --
   @on(Input.Changed, '#command')
   def locate_input(self, event: Input.Changed) -> None:
-    self.query_one('.box', TerminalStructure).scroll_end(animate=False)
+    self.query_one('#terminal-structure', TerminalStructure).scroll_end(animate=False)
 
   # -- executado quando um comando é enviado --
   @on(Input.Submitted, '#command')
@@ -117,4 +120,4 @@ class TerminalScreen(Screen):
         console.write(result)
 
     # -- garante que o terminal exiba a linha de input --
-    self.query_one('.box', TerminalStructure).scroll_end(animate=False)
+    self.query_one('#terminal-structure', TerminalStructure).scroll_end(animate=False)
