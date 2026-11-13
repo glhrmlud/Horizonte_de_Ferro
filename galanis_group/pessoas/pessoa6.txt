@@ -1,0 +1,24 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ PESSOA5 // FICHA PESSOAL                                                   │
+│                                                                            │
+│ FUNÇÃO                                                                     │
+│ Representante consular que negocia a compra e a demonstração de            │
+│ equipamentos de segurança. Organiza documentação de pagamento, transporte  │
+│ e entrega com os fornecedores.                                             │
+│                                                                            │
+│ ONDE COSTUMA ESTAR                                                         │
+│ Trabalha no local6 e circula pelos pontos de negociação e entrega. Pode    │
+│ visitar pontos de demonstração ou acompanhar a entrega de material         │
+│ autorizado. Costuma guardar comprovantes para prestação de contas.         │
+│                                                                            │
+│ ACESSOS E RELAÇÕES                                                         │
+│ A nota de compra da unidade de demonstração da arma2 está ligada ao seu    │
+│ trabalho. A entrega prevista era posterior ao incidente. Seus contatos com │
+│ vendedores e técnicos explicam por que seu nome pode aparecer em papéis de │
+│ compra.                                                                    │
+│                                                                            │
+│ NO CASO                                                                    │
+│ A nota se refere à unidade de demonstração. Para saber se pessoa5 aparece  │
+│ no roubo, confira a identidade registrada na saída do recipiente.          │
+└────────────────────────────────────────────────────────────────────────────┘

@@ -1,0 +1,24 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ PESSOA4 // FICHA PESSOAL                                                   │
+│                                                                            │
+│ FUNÇÃO                                                                     │
+│ Prestador de apoio à rede de custódia. Auxilia na conferência de volumes e │
+│ na organização de caixas de manutenção. Trabalha por chamados e registra a │
+│ entrega de materiais no fim de cada serviço.                               │
+│                                                                            │
+│ ONDE COSTUMA ESTAR                                                         │
+│ Pode passar por diferentes pontos da rede de acordo com a escala. Em cada  │
+│ chamado, consulta o painel de serviço para conferir o local, o horário e o │
+│ tipo de atividade solicitada.                                              │
+│                                                                            │
+│ ACESSOS E RELAÇÕES                                                         │
+│ Tem contato com a portaria e com equipes de manutenção. Chamados para      │
+│ transporte técnico e retiradas de material científico seguem procedimentos │
+│ diferentes, mesmo quando são atendidos no mesmo turno.                     │
+│                                                                            │
+│ NO CASO                                                                    │
+│ A passagem por um ponto depende do que foi registrado naquela noite.       │
+│ Consulte o Controle de acesso e procure o evento ligado ao recipiente com  │
+│ fita azul.                                                                 │
+└────────────────────────────────────────────────────────────────────────────┘

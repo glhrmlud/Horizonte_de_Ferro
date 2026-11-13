@@ -1,0 +1,25 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ PESSOA3 // FICHA PESSOAL                                                   │
+│                                                                            │
+│ FUNÇÃO                                                                     │
+│ Coordena atividades no abrigo comunitário do local2. Organiza o            │
+│ treinamento do grupo, a distribuição de mantimentos e as escalas de apoio  │
+│ aos moradores. Costuma reunir relatos quando há movimentação incomum na    │
+│ região.                                                                    │
+│                                                                            │
+│ ONDE COSTUMA ESTAR                                                         │
+│ Fica principalmente no local2. Também acompanha treinamentos no local5 e   │
+│ circula entre o abrigo, as passarelas e os pontos de apoio. Acompanha o    │
+│ livro de visitas e conversa com quem trabalha nas oficinas próximas.       │
+│                                                                            │
+│ ACESSOS E RELAÇÕES                                                         │
+│ Conhece pessoa7, que passa pelo abrigo e faz entregas na região. Recebe    │
+│ avisos de moradores sobre veículos oficiais. A rotina do abrigo envolve    │
+│ registros comunitários, separados dos controles das estações de custódia.  │
+│                                                                            │
+│ NO CASO                                                                    │
+│ O livro do abrigo pode ajudar a conferir um relato ou uma visita. Para     │
+│ saber se pessoa3 aparece na retirada do recipiente, compare com o controle │
+│ da saída.                                                                  │
+└────────────────────────────────────────────────────────────────────────────┘

@@ -1,0 +1,19 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ AUTORIZAÇÃO CIENTÍFICA                                                     │
+│                                                                            │
+│ A equipe de pessoa1 conferiu a coluna de aval científico.                  │
+│                                                                            │
+│ A equipe científica não autorizou a retirada do OBJ01 naquele horário.     │
+│ Ordem de manutenção e autorização de retirada são documentos diferentes.   │
+│ Consulte o Registro de retirada para conferir onde ocorreu a saída.        │
+│                                                                            │
+│ Transferir um recipiente regular exige conferência do lacre, registro de   │
+│ custódia e aval científico. A equipe revisou o livro de plantão e          │
+│ encontrou autorização para a chegada anterior do volume. Para o horário    │
+│ investigado, a coluna de aval estava vazia.                                │
+│                                                                            │
+│ Havia serviços de rotina autorizados naquela noite. Os registros permitem  │
+│ que uma equipe faça manutenção, mas a retirada de material científico      │
+│ depende do procedimento próprio.                                           │
+└────────────────────────────────────────────────────────────────────────────┘

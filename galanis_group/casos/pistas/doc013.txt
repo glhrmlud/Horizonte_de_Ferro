@@ -1,0 +1,26 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ REGISTRO DE RETIRADA                                                       │
+│                                                                            │
+│ PERGUNTA: Em que local o recipiente foi retirado?                          │
+│                                                                            │
+│ Às 23h25, o leitor da saída registrou o recipiente com a fita azul.        │
+│ Local da saída: {{ponto1}}.                                                │
+│ A equipe conferiu o selo e confirmou que a retirada não tinha autorização. │
+│                                                                            │
+│ Em {{ponto2}}, {{ponto3}}, {{ponto4}}, {{ponto5}}, {{ponto6}}, {{ponto7}}, │
+│ {{ponto8}} e {{ponto9}}, a ronda não registrou a saída desse recipiente na │
+│ mesma noite.                                                               │
+│                                                                            │
+│ ANOTE: o local de onde saiu o recipiente com a fita azul.                  │
+│                                                                            │
+│ CONTEXTO DO REGISTRO                                                       │
+│ A equipe comparou a entrada e a saída do volume. Na chegada, a fita já     │
+│ estava amarrada à alça. Na leitura das 23h25, a marca e o selo             │
+│ correspondiam ao mesmo recipiente. O plantão encontrou a entrada           │
+│ autorizada, mas não encontrou documento que autorizasse aquela saída.      │
+│                                                                            │
+│ Os outros locais foram consultados porque também recebem volumes de        │
+│ serviço. A confirmação do local vem da leitura do recipiente com fita      │
+│ azul, mesmo que um carro tenha sido visto depois em outro ponto.           │
+└────────────────────────────────────────────────────────────────────────────┘

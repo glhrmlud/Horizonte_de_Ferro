@@ -1,0 +1,24 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ PESSOA6 // FICHA PESSOAL                                                   │
+│                                                                            │
+│ FUNÇÃO                                                                     │
+│ Prefeito e responsável pelo gabinete no local3. Sua administração          │
+│ acompanha serviços extraordinários, pedidos de manutenção e autorizações   │
+│ de uso da frota municipal.                                                 │
+│                                                                            │
+│ ONDE COSTUMA ESTAR                                                         │
+│ Trabalha principalmente no local3, entre reuniões internas e compromissos  │
+│ oficiais. O gabinete mantém uma agenda pública e outra reservada para      │
+│ deslocamentos e intervalos operacionais.                                   │
+│                                                                            │
+│ ACESSOS E RELAÇÕES                                                         │
+│ Pode encaminhar pedidos às equipes técnicas e à garagem. Contas de serviço │
+│ do gabinete são compartilhadas com servidores de plantão. Uma requisição   │
+│ feita por essa conta não identifica, sozinha, a pessoa que operou a        │
+│ estação.                                                                   │
+│                                                                            │
+│ NO CASO                                                                    │
+│ A agenda e o despacho explicam as atribuições de pessoa6. O registro       │
+│ presencial da saída é a fonte para determinar quem levou o recipiente.     │
+└────────────────────────────────────────────────────────────────────────────┘

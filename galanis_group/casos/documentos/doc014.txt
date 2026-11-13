@@ -1,0 +1,20 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ MENSAGEM RECUPERADA                                                        │
+│                                                                            │
+│ O aparelho foi recolhido entre os pertences de pessoa7.                    │
+│                                                                            │
+│ A perícia recuperou um fragmento de mensagem de um aparelho danificado. A  │
+│ mensagem menciona uma caixa, mas perdeu o destino e a identificação do     │
+│ destinatário. O Controle de acesso documenta a saída do recipiente         │
+│ investigado.                                                               │
+│                                                                            │
+│ O aparelho foi encontrado com a tela quebrada. A parte legível da conversa │
+│ contém a expressão “deixar a caixa perto da saída”. O restante foi         │
+│ cortado, inclusive a data completa da mensagem.                            │
+│                                                                            │
+│ A equipe anotou o fragmento porque várias entregas passaram pelo mesmo     │
+│ circuito naquela noite. Sem a descrição do volume, a mensagem pode falar   │
+│ de ferramentas, manutenção ou outra entrega. A identificação da carga vem  │
+│ do registro da saída.                                                      │
+└────────────────────────────────────────────────────────────────────────────┘

@@ -1,0 +1,13 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ LOCAL7 // FICHA DE LOCAL                                                   │
+│                                                                            │
+│ Complexo desativado de caldeiras e distribuição de vapor nas regiões       │
+│ inferiores de local8. Tem salas de máquinas e passagens subterrâneas       │
+│ usadas para abrigo e circulação. pessoa7 conhecia o local. O ponto de      │
+│ conferência fica na entrada de serviço.                                    │
+│                                                                            │
+│ A equipe registra a chegada e a saída de volumes em eventos separados.     │
+│ Para identificar o local da retirada, confira onde o leitor registrou o    │
+│ recipiente com fita azul no Registro de retirada.                          │
+└────────────────────────────────────────────────────────────────────────────┘

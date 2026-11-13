@@ -1,0 +1,29 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ CONTROLE DE ACESSO                                                         │
+│                                                                            │
+│ PERGUNTA: Quem retirou o recipiente?                                       │
+│                                                                            │
+│ O leitor da saída registrou que {{suspeito1}} confirmou a identidade por   │
+│ biometria e saiu com o recipiente com fita azul às 23h25. O leitor guarda  │
+│ esse registro mesmo quando a câmera está em manutenção.                    │
+│                                                                            │
+│ OUTROS REGISTROS DA NOITE                                                  │
+│ {{suspeito2}} entrou antes do incidente e teve a saída registrada antes    │
+│ das 23h25.                                                                 │
+│ {{suspeito3}} e {{suspeito4}} passaram por outros pontos da ronda.         │
+│ {{suspeito5}} e {{suspeito6}} prestaram informações à equipe de busca.     │
+│ {{suspeito7}} só consultou o painel à distância.                           │
+│                                                                            │
+│ ANOTE: quem aparece levando o recipiente com a fita azul.                  │
+│                                                                            │
+│ CONTEXTO DO REGISTRO                                                       │
+│ O leitor distingue uma passagem a pé de uma retirada de carga. No segundo  │
+│ caso, ficam registradas no mesmo evento a confirmação de identidade e a    │
+│ descrição do volume. A equipe conferiu esse evento com o registro de       │
+│ retirada.                                                                  │
+│                                                                            │
+│ A lista abaixo reúne outras pessoas citadas no plantão. Algumas entraram   │
+│ no prédio; outras só falaram com a ronda. Para responder quem levou o      │
+│ recipiente, fique com a identificação registrada na linha da fita azul.    │
+└────────────────────────────────────────────────────────────────────────────┘

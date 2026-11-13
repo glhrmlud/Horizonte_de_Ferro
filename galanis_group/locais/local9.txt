@@ -1,0 +1,14 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ LOCAL8 // FICHA DE LOCAL                                                   │
+│                                                                            │
+│ Cidade suspensa entre plataformas elevadas, com áreas privilegiadas e      │
+│ setores de infraestrutura precária. Elevadores de carga e passarelas       │
+│ técnicas conectam seus distritos. Quando local8 aparece como resposta, o   │
+│ registro se refere ao posto urbano de carga, separado das instalações com  │
+│ ficha própria.                                                             │
+│                                                                            │
+│ A equipe registra a chegada e a saída de volumes em eventos separados.     │
+│ Para identificar o local da retirada, confira onde o leitor registrou o    │
+│ recipiente com fita azul no Registro de retirada.                          │
+└────────────────────────────────────────────────────────────────────────────┘

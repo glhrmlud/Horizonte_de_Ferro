@@ -1,0 +1,18 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ RECIBO RECUPERADO                                                          │
+│                                                                            │
+│ O recibo estava guardado com os comprovantes de pessoa7.                   │
+│                                                                            │
+│ Um recibo danificado traz a referência VEIC01, sem descrição da carga.     │
+│ Compare com o registro do veículo para entender o trajeto. O local do      │
+│ roubo está registrado na ficha Registro de retirada.                       │
+│                                                                            │
+│ O papel estava dobrado junto de comprovantes de reparos. A referência ao   │
+│ veículo ainda é visível; os campos de horário, recebedor e assinatura      │
+│ ficaram manchados. A via de controle não traz uma descrição do volume.     │
+│                                                                            │
+│ O recibo pode ser comparado ao relatório do veículo para entender por onde │
+│ a frota circulou. Para localizar o roubo, a equipe usa a primeira saída do │
+│ recipiente, que foi registrada antes desse trajeto.                        │
+└────────────────────────────────────────────────────────────────────────────┘

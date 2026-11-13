@@ -1,0 +1,11 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ LOCAL2 // FICHA DE LOCAL                                                   │
+│                                                                            │
+│ Região de passarelas, oficinas e acessos de serviço. pessoa3 coordena o    │
+│ abrigo da região e pessoa7 circula por aqui fazendo entregas.              │
+│                                                                            │
+│ A equipe registra a chegada e a saída de volumes em eventos separados.     │
+│ Para identificar o local da retirada, confira onde o leitor registrou o    │
+│ recipiente com fita azul no Registro de retirada.                          │
+└────────────────────────────────────────────────────────────────────────────┘
