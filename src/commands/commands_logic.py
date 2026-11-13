@@ -116,4 +116,3 @@ def handler_reset(app, args:str) -> str:
   app.self.response = draw_truth()
   generate_archives_galanis(app.BASE_DIR, field_map(app.self.response))
   app.app.push_screen("menu")
->>>>>>> ddae48b (feat: lógica de randomização criada e implementada no jogo)
