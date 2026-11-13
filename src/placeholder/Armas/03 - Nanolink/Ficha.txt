@@ -1,26 +1,24 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Nanolink                                                                   │
-│                                                                            │
-│ DESCRIÇÃO                                                                  │
-│ Módulo cibernético implantado no pulso, usado para autenticação,           │
-│ comunicação                                                                │
-│ e acesso a sistemas de serviço. Pode sincronizar uma credencial            │
-│ e transmitir uma autorização temporária a uma estação compatível.          │
-│                                                                            │
-│ FUNCIONAMENTO                                                              │
-│ O histórico guarda a estação consultada, a identidade apresentada          │
-│ e os horários de operação e sincronização. Uma sincronização pode          │
-│ ser registrada depois do evento. A aprovação para transportar              │
-│ material restrito segue seu próprio procedimento.                          │
-│                                                                            │
-│ REGISTROS RECUPERADOS                                                      │
-│ Uma ficha situa o aparelho nas Margens. Uma autenticação recebida          │
-│ depois aparece associada ao laboratório. A equipe preservou os             │
-│ horários de ambos os registros para verificar a ordem dos eventos.         │
-│                                                                            │
-│ PARA A INVESTIGAÇÃO                                                        │
-│ Consulte a finalidade da operação e a identificação da carga.              │
-│ Um teste de comunicação e uma operação de saída podem usar o               │
-│ mesmo tipo de aparelho.                                                    │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Nanolink
+
+DESCRIÇÃO
+Módulo cibernético implantado no pulso, usado para autenticação, comunicação
+e acesso a sistemas de serviço. Pode sincronizar uma credencial
+e transmitir uma autorização temporária a uma estação compatível.
+
+FUNCIONAMENTO
+O histórico guarda a estação consultada, a identidade apresentada
+e os horários de operação e sincronização. Uma sincronização pode
+ser registrada depois do evento. A aprovação para transportar
+material restrito segue seu próprio procedimento.
+
+REGISTROS RECUPERADOS
+Uma ficha situa o aparelho nas Margens. Uma autenticação recebida
+depois aparece associada ao laboratório. A equipe preservou os
+horários de ambos os registros para verificar a ordem dos eventos.
+
+PARA A INVESTIGAÇÃO
+Consulte a finalidade da operação e a identificação da carga.
+Um teste de comunicação e uma operação de saída podem usar o
+mesmo tipo de aparelho.

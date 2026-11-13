@@ -1,25 +1,23 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Sentinela MK-VII                                                           │
-│                                                                            │
-│ DESCRIÇÃO                                                                  │
-│ Unidade robótica de vigilância patrimonial. Patrulha corredores,           │
-│ detecta movimentações, pode se camuflar e registra eventos para a equipe   │
-│ de segurança.                                                              │
-│                                                                            │
-│ MODO DE MANUTENÇÃO                                                         │
-│ Uma ordem de serviço pode suspender parte dos sensores durante a           │
-│ inspeção. O resumo técnico guarda o horário, o terminal emissor e          │
-│ a justificativa cadastrada. A segurança corporativa e autoridades          │
-│ municipais habilitadas podem emitir essas ordens.                          │
-│                                                                            │
-│ REGISTRO RECUPERADO                                                        │
-│ O histórico tem uma lacuna de imagem no turno investigado. Há uma          │
-│ ordem de manutenção válida, emitida de um terminal externo à Torre.        │
-│ A imagem de quem solicitou a ordem não foi preservada.                     │
-│                                                                            │
-│ PARA A INVESTIGAÇÃO                                                        │
-│ O leitor de saída registra a carga independentemente das câmeras.          │
-│ Compare o resumo técnico com o registro do recipiente para saber           │
-│ quais eventos pertencem à retirada.                                        │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Sentinela MK-VII
+
+DESCRIÇÃO
+Unidade robótica de vigilância patrimonial. Patrulha corredores,
+detecta movimentações, pode se camuflar e registra eventos para a equipe de segurança.
+
+MODO DE MANUTENÇÃO
+Uma ordem de serviço pode suspender parte dos sensores durante a
+inspeção. O resumo técnico guarda o horário, o terminal emissor e
+a justificativa cadastrada. A segurança corporativa e autoridades
+municipais habilitadas podem emitir essas ordens.
+
+REGISTRO RECUPERADO
+O histórico tem uma lacuna de imagem no turno investigado. Há uma
+ordem de manutenção válida, emitida de um terminal externo à Torre.
+A imagem de quem solicitou a ordem não foi preservada.
+
+PARA A INVESTIGAÇÃO
+O leitor de saída registra a carga independentemente das câmeras.
+Compare o resumo técnico com o registro do recipiente para saber
+quais eventos pertencem à retirada.

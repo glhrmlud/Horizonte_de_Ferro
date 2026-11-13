@@ -1,25 +1,22 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ AK-97                                                                      │
-│                                                                            │
-│ DESCRIÇÃO                                                                  │
-│ Fuzil fictício com rastreamento de alvos, cadastrado no inventário de      │
-│ segurança de                                                               │
-│ Caelum, com rastreamento avançado de alvos. O controle de custódia reúne a │
-│ identificação da unidade                                                   │
-│ e as movimentações registradas pelos responsáveis pelo material.           │
-│                                                                            │
-│ REGISTRO DE CUSTÓDIA                                                       │
-│ A cópia recuperada traz um número de série incompleto. O campo             │
-│ de responsável pela última retirada também está incompleto.                │
-│                                                                            │
-│ OCORRÊNCIA PARALELA                                                        │
-│ Uma cápsula recolhida nas Margens foi associada informalmente ao           │
-│ modelo. A perícia não confirmou a correspondência. A anotação              │
-│ foi arquivada com os registros de segurança da região.                     │
-│                                                                            │
-│ PARA A INVESTIGAÇÃO                                                        │
-│ A identificação do modelo em outro incidente tem alcance limitado.         │
-│ Para o caso da fita azul, compare a etiqueta da operação com o             │
-│ inventário do turno.                                                       │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+AK-97
+
+DESCRIÇÃO
+Fuzil fictício com rastreamento de alvos, cadastrado no inventário de segurança de
+Caelum, com rastreamento avançado de alvos. O controle de custódia reúne a identificação da unidade
+e as movimentações registradas pelos responsáveis pelo material.
+
+REGISTRO DE CUSTÓDIA
+A cópia recuperada traz um número de série incompleto. O campo
+de responsável pela última retirada também está incompleto.
+
+OCORRÊNCIA PARALELA
+Uma cápsula recolhida nas Margens foi associada informalmente ao
+modelo. A perícia não confirmou a correspondência. A anotação
+foi arquivada com os registros de segurança da região.
+
+PARA A INVESTIGAÇÃO
+A identificação do modelo em outro incidente tem alcance limitado.
+Para o caso da fita azul, compare a etiqueta da operação com o
+inventário do turno.

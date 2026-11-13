@@ -1,7 +1,5 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Laboratório Logos-7                                                        │
-│                                                                            │
-│ Complexo científico com área de contenção e conferência de lacres. A       │
-│ equipe registra entrada e saída de volumes separadamente.                  │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Laboratório Logos-7
+
+Complexo científico com área de contenção e conferência de lacres. A equipe registra entrada e saída de volumes separadamente.

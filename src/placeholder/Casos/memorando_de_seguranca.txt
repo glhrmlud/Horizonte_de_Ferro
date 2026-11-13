@@ -1,17 +1,16 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Memorando de segurança                                                     │
-│                                                                            │
-│ PROPOSTA — BASE HF-054                                                     │
-│                                                                            │
-│ Na reunião em {lcs4}, {spt3} apresentou uma proposta para centralizar      │
-│ as autorizações de transporte. {spt6} pediu que o texto distinguisse       │
-│ deslocamento de serviço e retirada de material restrito.                   │
-│                                                                            │
-│ Trecho preservado de HF-054:                                               │
-│ “Reduzir a dependência de autorizações privadas durante crises             │
-│ de infraestrutura.”                                                        │
-│                                                                            │
-│ O rascunho antecede o roubo. A equipe guardou a proposta junto dos         │
-│ contratos para entender por que havia ordens diferentes em circulação.     │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Memorando de segurança
+
+PROPOSTA — BASE HF-054
+
+Na reunião em {lcs4}, {spt3} apresentou uma proposta para centralizar
+as autorizações de transporte. {spt6} pediu que o texto distinguisse
+deslocamento de serviço e retirada de material restrito.
+
+Trecho preservado de HF-054:
+“Reduzir a dependência de autorizações privadas durante crises
+de infraestrutura.”
+
+O rascunho antecede o roubo. A equipe guardou a proposta junto dos
+contratos para entender por que havia ordens diferentes em circulação.

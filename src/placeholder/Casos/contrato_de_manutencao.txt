@@ -1,12 +1,11 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Contrato de manutenção                                                     │
-│                                                                            │
-│ A equipe de plantão podia conferir leitores, testar equipamentos           │
-│ e transportar material de serviço. Esses pedidos explicam parte            │
-│ das movimentações da noite.                                                │
-│                                                                            │
-│ No verso da cópia havia uma anotação a lápis: “A caixa da fita azul        │
-│ é a da equipe científica. Ordem de manutenção não vale como aval.”         │
-│ A via da ordem de retirada foi anexada ao Controle de saída.               │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Contrato de manutenção
+
+A equipe de plantão podia conferir leitores, testar equipamentos
+e transportar material de serviço. Esses pedidos explicam parte
+das movimentações da noite.
+
+No verso da cópia havia uma anotação a lápis: “A caixa da fita azul
+é a da equipe científica. Ordem de manutenção não vale como aval.”
+A via da ordem de retirada foi anexada ao Controle de saída.

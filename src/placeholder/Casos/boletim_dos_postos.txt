@@ -1,13 +1,12 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Boletim dos postos                                                         │
-│                                                                            │
-│ A rede separa instalações de custódia, abrigos e postos de recebimento.    │
-│ No turno, a equipe conferiu os manifestos de {lcs2}, {lcs3}, {lcs4} e      │
-│ {lcs5}. O protocolo arquivou também as consultas a {lcs6}, {lcs7},         │
-│ {lcs8} e {lcs9}. Eram registros de rotina ou de outros volumes.            │
-│                                                                            │
-│ Nota ficcional do plantão: “Um endereço num recibo pode indicar só onde    │
-│ a consulta foi feita. Para achar o local do roubo, leiam a saída da        │
-│ caixa marcada, no Registro de transferência.”                              │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Boletim dos postos
+
+A rede separa instalações de custódia, abrigos e postos de recebimento.
+No turno, a equipe conferiu os manifestos de {lcs2}, {lcs3}, {lcs4} e
+{lcs5}. O protocolo arquivou também a consulta a {lcs6}.
+Eram registros de rotina ou de outros volumes.
+
+Nota ficcional do plantão: “Um endereço num recibo pode indicar só onde
+a consulta foi feita. Para achar o local do roubo, leiam a saída da
+caixa marcada, no Registro de transferência.”

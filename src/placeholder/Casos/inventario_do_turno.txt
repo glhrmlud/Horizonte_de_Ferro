@@ -1,15 +1,14 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Inventário do turno                                                        │
-│                                                                            │
-│ O inventário reúne os itens cadastrados no turno.                          │
-│                                                                            │
-│ Etiqueta R-14 — {arm3}                                                     │
-│ Etiqueta R-26 — {arm5}                                                     │
-│ Etiqueta R-38 — {arm1}                                                     │
-│ Etiqueta R-42 — {arm2}                                                     │
-│ Etiqueta R-57 — {arm4}                                                     │
-│                                                                            │
-│ Cada etiqueta identifica um item. O papel recuperado no Registro           │
-│ de transferência indica qual etiqueta está ligada à retirada.              │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Inventário do turno
+
+O inventário reúne os itens cadastrados no turno.
+
+Etiqueta R-14 — {arm3}
+Etiqueta R-26 — {arm5}
+Etiqueta R-38 — {arm1}
+Etiqueta R-42 — {arm2}
+Etiqueta R-57 — {arm4}
+
+Cada etiqueta identifica um item. O papel recuperado no Registro
+de transferência indica qual etiqueta está ligada à retirada.

@@ -1,7 +1,5 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Esconderijo do Sindicato                                                   │
-│                                                                            │
-│ Instalação em túneis de manutenção. Guarda mapas e registros comunitários. │
-│ A área de apoio pode receber volumes em trânsito.                          │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Esconderijo do Sindicato
+
+Instalação em túneis de manutenção. Guarda mapas e registros comunitários. A área de apoio pode receber volumes em trânsito.

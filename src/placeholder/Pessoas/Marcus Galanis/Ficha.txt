@@ -1,13 +1,8 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Marcus Galanis                                                             │
-│                                                                            │
-│ Neto do fundador e herdeiro direto do Grupo Galanis. Orgulhoso e hábil em  │
-│ negociação, conhece os sistemas corporativos e a política de Caelum. César │
-│ Galanis, seu pai, não o considera pronto para assumir. Marcus quer         │
-│ descobrir o que ocorreu com o pai e com o projeto.                         │
-│                                                                            │
-│ POR QUE INVESTIGAR                                                         │
-│ Controlar a arma poderia ajudá-lo a descobrir o destino do pai ou a ganhar │
-│ influência dentro da empresa.                                              │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Marcus Galanis
+
+Neto do fundador e herdeiro direto do Grupo Galanis. Orgulhoso e hábil em negociação, conhece os sistemas corporativos e a política de Caelum. César Galanis, seu pai, não o considera pronto para assumir. Marcus quer descobrir o que ocorreu com o pai e com o projeto.
+
+POR QUE INVESTIGAR
+Controlar a arma poderia ajudá-lo a descobrir o destino do pai ou a ganhar influência dentro da empresa.

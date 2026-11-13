@@ -1,12 +1,8 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Sarah Lithos                                                               │
-│                                                                            │
-│ Representante diplomática de Petra. Sofisticada e persuasiva, negocia a    │
-│ aquisição do Logos-7. O interesse de Petra explica o contato com a         │
-│ corporação; suas ordens privadas são desconhecidas.                        │
-│                                                                            │
-│ POR QUE INVESTIGAR                                                         │
-│ Obter a arma antes da assinatura do acordo daria vantagem a Petra sobre os │
-│ demais interessados.                                                       │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Sarah Lithos
+
+Representante diplomática de Petra. Sofisticada e persuasiva, negocia a aquisição do Logos-7. O interesse de Petra explica o contato com a corporação; suas ordens privadas são desconhecidas.
+
+POR QUE INVESTIGAR
+Obter a arma antes da assinatura do acordo daria vantagem a Petra sobre os demais interessados.

@@ -1,17 +1,16 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Termo de custódia                                                          │
-│                                                                            │
-│ O Punhal Galanis, relíquia da família, foi conferido no inventário         │
-│ privado. O Exoesqueleto 01 aparece na ficha de movimentação de cargas.     │
-│ O Nanolink mantém registros de autenticação e consulta a sistemas.         │
-│                                                                            │
-│ A ronda também arquivou uma menção à AK-97 numa ocorrência paralela.       │
-│ A manutenção do Sentinela MK-VII gerou um registro próprio de sensores.    │
-│                                                                            │
-│ Nota ficcional do fiscal: “Cada menção tem uma origem. Para a caixa        │
-│ de fita azul, consultem a etiqueta registrada no evento de saída.”         │
-│                                                                            │
-│ Esses antecedentes explicam por que os cinco itens estão no catálogo.      │
-│ O Inventário do turno traz as etiquetas válidas para a partida.            │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Termo de custódia
+
+O Punhal Galanis, relíquia da família, foi conferido no inventário
+privado. O Exoesqueleto 01 aparece na ficha de movimentação de cargas.
+O Nanolink mantém registros de autenticação e consulta a sistemas.
+
+A ronda também arquivou uma menção à AK-97 numa ocorrência paralela.
+A manutenção do Sentinela MK-VII gerou um registro próprio de sensores.
+
+Nota ficcional do fiscal: “Cada menção tem uma origem. Para a caixa
+de fita azul, consultem a etiqueta registrada no evento de saída.”
+
+Esses antecedentes explicam por que os cinco itens estão no catálogo.
+O Inventário do turno traz as etiquetas válidas para a partida.

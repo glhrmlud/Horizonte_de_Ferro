@@ -1,14 +1,13 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Entrevistas do plantão                                                     │
-│                                                                            │
-│ {spt2} relatou uma passagem de rotina por um posto de serviço. A equipe    │
-│ pediu a {spt3} que conferisse a escala. {spt6} e {spt7} aparecem como      │
-│ consultas no painel, registradas separadamente da movimentação de carga.   │
-│                                                                            │
-│ Trecho ficcional de uma entrevista: “Tinha caixa de ferramenta e caixa     │
-│ de transporte no mesmo turno. Só uma tinha a fita azul.”                   │
-│                                                                            │
-│ Uma folha sem assinatura estava presa atrás da escala: “A cópia com a      │
-│ assinatura ficou dobrada no Controle de saída.”                            │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Entrevistas do plantão
+
+{spt2} relatou uma passagem de rotina por um posto de serviço. A equipe
+pediu a {spt3} que conferisse a escala. {spt6} e {spt7} aparecem como
+consultas no painel, registradas separadamente da movimentação de carga.
+
+Trecho ficcional de uma entrevista: “Tinha caixa de ferramenta e caixa
+de transporte no mesmo turno. Só uma tinha a fita azul.”
+
+Uma folha sem assinatura estava presa atrás da escala: “A cópia com a
+assinatura ficou dobrada no Controle de saída.”

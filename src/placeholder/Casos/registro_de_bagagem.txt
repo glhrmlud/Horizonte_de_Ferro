@@ -1,13 +1,12 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Registro de bagagem                                                        │
-│                                                                            │
-│ RELATO ADAPTADO — BASE HF-060                                              │
-│                                                                            │
-│ Em {lcs6}, {spt6} declarou uma maleta lacrada para despesas de             │
-│ negociação. Alguém na recepção disse que parecia uma mala de dinheiro.     │
-│ A equipe recebeu as duas descrições, mas não fez inspeção independente.    │
-│                                                                            │
-│ O registro não descreve fita azul nem cita a saída do recipiente.          │
-│ A maleta foi anotada como um volume distinto do recipiente do caso.        │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Registro de bagagem
+
+RELATO ADAPTADO — BASE HF-060
+
+Em {lcs6}, {spt6} declarou uma maleta lacrada para despesas de
+negociação. Alguém na recepção disse que parecia uma mala de dinheiro.
+A equipe recebeu as duas descrições, mas não fez inspeção independente.
+
+O registro não descreve fita azul nem cita a saída do recipiente.
+A maleta foi anotada como um volume distinto do recipiente do caso.

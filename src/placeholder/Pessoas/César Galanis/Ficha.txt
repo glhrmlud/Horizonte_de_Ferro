@@ -1,13 +1,8 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ César Galanis                                                              │
-│                                                                            │
-│ Filho do fundador do Grupo Galanis, pai de Marcus Galanis e responsável    │
-│ por criar o projeto Logos-7. Autoritário e reservado, quer preservar o     │
-│ império familiar. Seu desaparecimento abre a investigação; a causa segue   │
-│ em aberto.                                                                 │
-│                                                                            │
-│ POR QUE INVESTIGAR                                                         │
-│ Se o desaparecimento foi voluntário, deslocar a arma pode ter sido uma     │
-│ forma de manter o projeto sob controle da família.                         │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+César Galanis
+
+Filho do fundador do Grupo Galanis, pai de Marcus Galanis e responsável por criar o projeto Logos-7. Autoritário e reservado, quer preservar o império familiar. Seu desaparecimento abre a investigação; a causa segue em aberto.
+
+POR QUE INVESTIGAR
+Se o desaparecimento foi voluntário, deslocar a arma pode ter sido uma forma de manter o projeto sob controle da família.

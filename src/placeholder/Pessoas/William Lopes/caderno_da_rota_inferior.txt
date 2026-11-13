@@ -1,14 +1,13 @@
-﻿┌────────────────────────────────────────────────────────────────────────────┐
-│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
-│ Caderno da rota inferior                                                   │
-│                                                                            │
-│ Marta Peregrino organiza as rondas de O Sindicato e guarda mapas no        │
-│ Esconderijo do Sindicato. William Lopes conhece as passagens entre         │
-│ As Margens e o Depósito das Caldeiras, onde circula a Tenebris.            │
-│                                                                            │
-│ Relato ficcional de uma moradora de Caelum: “Da passarela eu via a         │
-│ carga, mas o teto do carro escondia quem estava dirigindo.”                │
-│                                                                            │
-│ A ficha descreve rotas conhecidas antes do incidente. Consulte os          │
-│ relatos do turno para saber quem foi ouvido naquela noite.                 │
-└────────────────────────────────────────────────────────────────────────────┘
+﻿HORIZONTE DE FERRO // ARQUIVO CENTRAL
+
+Caderno da rota inferior
+
+Marta Peregrino organiza as rondas de O Sindicato e guarda mapas no
+Esconderijo do Sindicato. William Lopes conhece as passagens entre
+As Margens e o Depósito das Caldeiras, onde circula a Tenebris.
+
+Relato ficcional de uma moradora de Caelum: “Da passarela eu via a
+carga, mas o teto do carro escondia quem estava dirigindo.”
+
+A ficha descreve rotas conhecidas antes do incidente. Consulte os
+relatos do turno para saber quem foi ouvido naquela noite.
