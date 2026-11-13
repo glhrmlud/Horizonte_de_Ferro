@@ -1,0 +1,7 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ {Palácio Municipal de Caelum}                                              │
+│                                                                            │
+│ Sede do gabinete, da garagem e dos terminais administrativos. Pedidos de   │
+│ manutenção podem ser emitidos daqui para outros pontos.                    │
+└────────────────────────────────────────────────────────────────────────────┘

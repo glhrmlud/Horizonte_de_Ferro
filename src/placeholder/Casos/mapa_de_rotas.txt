@@ -1,0 +1,14 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ Mapa de passagens de serviço                                               │
+│                                                                            │
+│ RECONSTRUÇÃO DE ROTA — BASE HF-076                                         │
+│                                                                            │
+│ O croqui de {lcs7} mostra duas passagens que evitam os postos de           │
+│ vigilância. Uma leva ao ponto de carga de {lcs8}; a outra termina          │
+│ em um corredor de manutenção. Um aviso na margem cita {lcs9}               │
+│ como destino possível de remessas de rotina.                               │
+│                                                                            │
+│ {spt7} reconheceu os trajetos ao consultar o mapa. O desenho ajuda         │
+│ a entender a circulação, mas não registra a saída de nenhum volume.        │
+└────────────────────────────────────────────────────────────────────────────┘

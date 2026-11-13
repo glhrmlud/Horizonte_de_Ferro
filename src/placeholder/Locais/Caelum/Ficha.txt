@@ -1,0 +1,8 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ {Caelum}                                                                   │
+│                                                                            │
+│ Cidade suspensa que reúne os distritos da investigação. No palpite,        │
+│ {Caelum} designa o posto urbano de carga, com controle separado das        │
+│ instalações específicas.                                                   │
+└────────────────────────────────────────────────────────────────────────────┘

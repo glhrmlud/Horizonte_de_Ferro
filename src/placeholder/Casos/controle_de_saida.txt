@@ -1,0 +1,14 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ Controle de saída                                                          │
+│                                                                            │
+│ A estação confirmou a retirada do recipiente com fita azul. O              │
+│ registro de circulação também lista {spt2}, {spt3} e {spt4};               │
+│ {spt5}, {spt6} e {spt7} aparecem nas anotações de conferência.             │
+│ Todos tinham algum vínculo com a operação. A ordem foi conferida           │
+│ em separado, pelo despacho da carga com fita azul.                         │
+│                                                                            │
+│ Na contracapa havia uma via dobrada do despacho. A fita azul               │
+│ estava desenhada no canto. A linha de autorização identifica               │
+│ {spt1} como responsável pela ordem de retirada sem aval.                   │
+└────────────────────────────────────────────────────────────────────────────┘

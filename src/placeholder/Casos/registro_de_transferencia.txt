@@ -1,0 +1,15 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ Registro de transferência                                                  │
+│                                                                            │
+│ O leitor de {lcs1} registrou a saída do recipiente com fita azul.          │
+│ A entrada tinha autorização. A retirada posterior, não.                    │
+│                                                                            │
+│ A equipe também conferiu {lcs2}, {lcs3}, {lcs4}, {lcs5}, {lcs6},           │
+│ {lcs7}, {lcs8} e {lcs9}. Os demais registros são de circulação,            │
+│ apoio ou outros volumes.                                                   │
+│                                                                            │
+│ Entre as vias do formulário ficou preso um papel rasgado:                  │
+│ “A etiqueta do item usado na saída da fita azul era R-38.”                 │
+│ O código pode ser conferido no Inventário do turno.                        │
+└────────────────────────────────────────────────────────────────────────────┘

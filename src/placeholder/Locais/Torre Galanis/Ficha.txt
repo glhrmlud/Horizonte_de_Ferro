@@ -1,0 +1,7 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ {Torre Galanis}                                                            │
+│                                                                            │
+│ Sede corporativa com acesso privativo e circuito técnico. A circulação     │
+│ pelos escritórios e a movimentação de cargas têm controles separados.      │
+└────────────────────────────────────────────────────────────────────────────┘

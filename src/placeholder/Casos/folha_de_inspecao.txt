@@ -1,0 +1,19 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ Folha de inspeção de material                                              │
+│                                                                            │
+│ REGISTRO ADAPTADO — CUSTÓDIA E MANUTENÇÃO                                  │
+│                                                                            │
+│ O plantão de {lcs2} separou quatro itens para conferência:                 │
+│ {arm2}, {arm3}, {arm4} e {arm5}. A equipe comparou as etiquetas            │
+│ com o inventário e anexou os comprovantes de movimentação de               │
+│ rotina. A folha não atribui a esses itens uma função específica.           │
+│                                                                            │
+│ No rodapé do formulário, alguém prendeu um bilhete sem assinatura.         │
+│ Trecho preservado de HF-032:                                               │
+│ “A ordem veio de cima. Não pediram para abrir a porta. Só para             │
+│ deixar o corredor sem registro. Se perguntarem, foi manutenção.”           │
+│                                                                            │
+│ O bilhete não cita o recipiente, uma etiqueta ou um responsável.           │
+│ Para a arma do crime, use o papel rasgado no Registro de transferência.    │
+└────────────────────────────────────────────────────────────────────────────┘

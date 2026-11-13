@@ -1,0 +1,25 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ {Exoesqueleto 01}                                                          │
+│                                                                            │
+│ DESCRIÇÃO                                                                  │
+│ Estrutura mecânica vestível do almoxarifado técnico. Foi projetada         │
+│ para ampliar a força e a resistência em confrontos, invasões e             │
+│ transporte de cargas pesadas. A armação distribui o peso entre o tronco e  │
+│ as pernas do                                                               │
+│ operador e pode ser usada em corredores de serviço.                        │
+│                                                                            │
+│ REGISTRO DE CUSTÓDIA                                                       │
+│ A retirada da estrutura costuma ser anotada no formulário do               │
+│ almoxarifado. Na documentação da noite investigada, a equipe não           │
+│ localizou o formulário correspondente ao intervalo da ocorrência.          │
+│                                                                            │
+│ VESTÍGIOS                                                                  │
+│ Uma inspeção encontrou marcas de apoio na passagem de serviço.             │
+│ O padrão é compatível com uma estrutura mecânica, mas a perícia            │
+│ não conseguiu determinar o modelo pelas marcas.                            │
+│                                                                            │
+│ PARA A INVESTIGAÇÃO                                                        │
+│ A ficha explica o que procurar numa inspeção física. A identificação       │
+│ do item usado na retirada vem da etiqueta registrada na operação.          │
+└────────────────────────────────────────────────────────────────────────────┘
