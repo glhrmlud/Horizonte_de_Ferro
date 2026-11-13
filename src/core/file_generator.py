@@ -51,8 +51,10 @@ def field_map(draw: dict) -> dict:
   return map
 
 # -- Gera os arquivos a serem vasculhados pelo jogador
-def generate_archives_galanis(base_dir : Path, dir_end: Path, map: dict) -> None:
-  if base_dir.exists():
+def generate_archives_galanis(dir_end: Path, map: dict) -> None:
+  base_dir = (Path(__file__).resolve().parent.parent / 'placeholder').resolve()
+
+  if dir_end.exists():
     shutil.rmtree(dir_end)
 
   shutil.copytree(base_dir, dir_end)

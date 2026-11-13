@@ -12,6 +12,8 @@ from textual import on, work
 from pathlib import Path
 from commands.commands_logic import COMMAND_REGISTRY #comando do sistema
 import core.terminal_logic as terminal #lógica do sistema
+from core.file_generator import draw_truth, field_map, generate_archives_galanis #criar arquivos
+
 
 class TerminalStructure(VerticalScroll):
   def compose(self) -> ComposeResult:
@@ -81,6 +83,10 @@ class TerminalScreen(Screen):
     self.current_path = self.BASE_DIR #caminho atual desde a raiz
     self.relative_current_path = self.BASE_DIR.relative_to(self.BASE_DIR.parent) #caminho relativo
     self.base_virtual_path = 'C:\\Usuarios\\Admin\\' #inicio do caminho que aparece no TUI
+
+    # -- dicionário resposta
+    self.response = draw_truth()
+    generate_archives_galanis(self.BASE_DIR, field_map(self.response))
 
     # -- animação de entrada do terminal
     self.init_animation()

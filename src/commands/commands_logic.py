@@ -1,5 +1,6 @@
 from pathlib import Path
 from textual.widgets import RichLog, TextArea
+from core.file_generator import draw_truth, field_map, generate_archives_galanis
 
 COMMAND_REGISTRY = {}
 
@@ -108,3 +109,11 @@ def handler_notepade(app, args: str) -> str:
 @register_command("palpite", description="Dá palpite do culapado, arma e local", sintax="palpite <culpado>;<arma>;<local>")
 def handler_palpite(app, args: str) -> str:
   pass
+
+# -- Comando reset
+@register_command("reset", description="Reseta o jogo", sintax="reset - reinicia o jogo, alterando o culpado do crime")
+def handler_reset(app, args:str) -> str:
+  app.self.response = draw_truth()
+  generate_archives_galanis(app.BASE_DIR, field_map(app.self.response))
+  app.app.push_screen("menu")
+>>>>>>> ddae48b (feat: lógica de randomização criada e implementada no jogo)
