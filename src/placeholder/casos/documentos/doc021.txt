@@ -1,0 +1,19 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ LACUNA DE GRAVAÇÃO                                                         │
+│                                                                            │
+│ A falha descrita aqui pertence ao registro de manutenção da arma2.         │
+│                                                                            │
+│ O sistema de vigilância registra as interrupções de imagem durante         │
+│ operações de manutenção. Uma pausa pode ter origem em teste ou serviço. O  │
+│ Relatório de vínculos indica qual equipamento efetivamente foi usado na    │
+│ saída do recipiente.                                                       │
+│                                                                            │
+│ A equipe de vigilância exportou o resumo da gravação. Há períodos de       │
+│ serviço em que o vídeo principal fica indisponível. Esses intervalos       │
+│ permanecem no relatório de manutenção para conferência.                    │
+│                                                                            │
+│ A retirada foi registrada por um leitor independente. Assim, a equipe      │
+│ consegue identificar a operação da carga mesmo em uma área que esteja sem  │
+│ vídeo durante parte do plantão.                                            │
+└────────────────────────────────────────────────────────────────────────────┘

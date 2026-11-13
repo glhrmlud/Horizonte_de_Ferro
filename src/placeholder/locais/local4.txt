@@ -1,0 +1,11 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ LOCAL3 // FICHA DE LOCAL                                                   │
+│                                                                            │
+│ Sede do gabinete e da frota municipal. Reúne a garagem, a administração e  │
+│ terminais de serviço. É o principal local de trabalho de pessoa6.          │
+│                                                                            │
+│ A equipe registra a chegada e a saída de volumes em eventos separados.     │
+│ Para identificar o local da retirada, confira onde o leitor registrou o    │
+│ recipiente com fita azul no Registro de retirada.                          │
+└────────────────────────────────────────────────────────────────────────────┘

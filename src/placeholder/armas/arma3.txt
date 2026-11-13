@@ -1,0 +1,12 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ ARMA3 // FICHA TÉCNICA                                                     │
+│                                                                            │
+│ Estrutura mecânica vestível do almoxarifado técnico. Foi criada para       │
+│ auxiliar a movimentação de cargas e reduzir o esforço de quem carrega      │
+│ volumes pesados.                                                           │
+│                                                                            │
+│ Marcas de apoio em um corredor podem indicar o uso de uma estrutura desse  │
+│ tipo. Para identificar arma3 no roubo, confira o equipamento registrado no │
+│ evento do recipiente com fita azul.                                        │
+└────────────────────────────────────────────────────────────────────────────┘

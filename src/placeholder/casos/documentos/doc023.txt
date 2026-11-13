@@ -1,0 +1,16 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ DANOS E CONTENÇÃO                                                          │
+│                                                                            │
+│ A equipe acionou a contenção manual em resposta à perda de rastreio. A     │
+│ perícia do laboratório ajuda a entender o recipiente, mas o local da       │
+│ retirada está na ficha Registro de retirada.                               │
+│                                                                            │
+│ Depois da perda de rastreio, a equipe verificou o compartimento e acionou  │
+│ a contenção manual. A inspeção encontrou marcas do fechamento de           │
+│ emergência e nenhuma descrição do trajeto percorrido pela carga.           │
+│                                                                            │
+│ A perícia conservou as anotações para explicar a resposta do laboratório.  │
+│ A identificação do local do roubo depende do leitor da saída, que          │
+│ registrou o volume antes que a equipe iniciasse a busca.                   │
+└────────────────────────────────────────────────────────────────────────────┘

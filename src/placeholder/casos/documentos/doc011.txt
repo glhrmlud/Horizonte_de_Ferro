@@ -1,0 +1,17 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ FICHA DE FUNCIONAMENTO DA VIGILÂNCIA                                       │
+│                                                                            │
+│ A unidade de vigilância patrulha corredores e acompanha os acessos. O modo │
+│ de manutenção pode suspender a gravação do corredor e liberar uma operação │
+│ de serviço. A confirmação de uso no roubo vem do Relatório de vínculos.    │
+│                                                                            │
+│ Durante a ronda, a unidade transmite imagens do corredor. Em manutenção, a │
+│ gravação principal pode parar enquanto os técnicos verificam o             │
+│ equipamento. O leitor da saída usa um registro separado e continua         │
+│ anotando identificações e cargas.                                          │
+│                                                                            │
+│ Uma pausa de imagem é comum em serviço programado. A equipe só relaciona   │
+│ uma operação à investigação quando o relatório da saída a associa          │
+│ diretamente ao recipiente com fita azul.                                   │
+└────────────────────────────────────────────────────────────────────────────┘

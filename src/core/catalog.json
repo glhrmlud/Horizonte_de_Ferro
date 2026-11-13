@@ -1,0 +1,26 @@
+{
+  "pessoas": [
+    "Marcus Galanis",
+    "Marta Peregrino",
+    "Vicenzo Calvini",
+    "Cesar Galanis",
+    "Sarah Lithos",
+    "William Lopes",
+    "Nikolas Prometheus"
+  ],
+  "armas": [
+    "Exoesqueleto",
+    "Punhal Galanis",
+    "Nanolink",
+    "AK-97",
+    "Sentinela MK-VII"
+  ],
+  "locais": [
+    "Torre Galanis",
+    "Lab Logos-7",
+    "Margens",
+    "Esconderijo do Sindicato",
+    "Palácio Municipal de Caelum",
+    "Consulado de Petra"
+  ]
+}

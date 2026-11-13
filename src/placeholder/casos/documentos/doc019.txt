@@ -1,0 +1,19 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ RELATÓRIO DE VEÍCULO                                                       │
+│                                                                            │
+│ O relatório foi emitido pela garagem do local3.                            │
+│                                                                            │
+│ O VEIC01 é um veículo municipal usado em serviços técnicos. O controle de  │
+│ peso anotou uma carga depois do horário do incidente, sem descrição        │
+│ legível. Para identificar o local do roubo, use a primeira saída           │
+│ registrada do recipiente com fita azul.                                    │
+│                                                                            │
+│ O formulário da frota reúne horários de circulação e pesagens. A anotação  │
+│ perto do fim do turno mostra um aumento de peso, mas o campo de descrição  │
+│ foi preenchido apenas como “serviço técnico”.                              │
+│                                                                            │
+│ A diferença foi registrada para orientar a busca, pois o compartimento     │
+│ também podia levar peças ou ferramentas. A equipe separou esse trecho do   │
+│ registro que confirma o lugar de onde o volume saiu.                       │
+└────────────────────────────────────────────────────────────────────────────┘

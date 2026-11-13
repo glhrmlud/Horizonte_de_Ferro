@@ -1,0 +1,18 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ FICHA DO OBJETO DESAPARECIDO                                               │
+│                                                                            │
+│ O OBJ01 estava dentro de um recipiente de contenção. Na noite do sumiço, a │
+│ equipe amarrou uma fita azul à alça para facilitar a identificação. Esse é │
+│ o mesmo recipiente citado nas três fichas principais da investigação.      │
+│                                                                            │
+│ O recipiente tem duas travas de segurança e uma alça dobrável. Durante a   │
+│ inspeção, a equipe prendia a fita do lado de fora para conseguir           │
+│ identificar o volume sem abrir as travas. As caixas de ferramentas         │
+│ circulavam sem essa marca.                                                 │
+│                                                                            │
+│ O lacre da tampa foi conferido antes da última transferência regular. Ao   │
+│ perceber o sumiço, o plantão preservou os registros da estação de saída e  │
+│ separou os recibos de outras cargas. No arquivo, procure sempre a          │
+│ descrição “recipiente com fita azul”.                                      │
+└────────────────────────────────────────────────────────────────────────────┘

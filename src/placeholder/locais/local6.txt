@@ -1,0 +1,13 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ LOCAL5 // FICHA DE LOCAL                                                   │
+│                                                                            │
+│ Ponto de apoio comunitário usado para treinamento e encontros. pessoa3     │
+│ acompanha as atividades desse ponto e mantém os registros do abrigo de     │
+│ local2. Na noite do caso, a rede de custódia podia usar a área de          │
+│ conferência para movimentação temporária de volumes.                       │
+│                                                                            │
+│ A equipe registra a chegada e a saída de volumes em eventos separados.     │
+│ Para identificar o local da retirada, confira onde o leitor registrou o    │
+│ recipiente com fita azul no Registro de retirada.                          │
+└────────────────────────────────────────────────────────────────────────────┘

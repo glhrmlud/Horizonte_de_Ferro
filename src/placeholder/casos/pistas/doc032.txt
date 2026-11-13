@@ -1,0 +1,21 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ RELATÓRIO DE VÍNCULOS                                                      │
+│                                                                            │
+│ PERGUNTA: Qual arma ou equipamento foi usado no roubo?                     │
+│                                                                            │
+│ Evento das 23h25 — retirada sem autorização do recipiente com fita azul.   │
+│ Arma ou equipamento efetivamente usado nessa retirada: {{equipamento1}}.   │
+│                                                                            │
+│ A equipe conferiu a identificação do item no registro do incidente.        │
+│ Os itens {{equipamento2}}, {{equipamento3}}, {{equipamento4}} e            │
+│ {{equipamento5}} aparecem apenas em registros separados de inventário,     │
+│ teste ou manutenção.                                                       │
+│                                                                            │
+│ ANOTE: o ID da arma ou equipamento indicado na retirada da fita azul.      │
+│                                                                            │
+│ CONTEXTO DO REGISTRO                                                       │
+│ O campo de uso inclui equipamento de acesso, apoio ao transporte ou        │
+│ arma usada para intimidar alguém. O registro do incidente identifica       │
+│ o item associado à retirada. O inventário só confirma o cadastro.          │
+└────────────────────────────────────────────────────────────────────────────┘

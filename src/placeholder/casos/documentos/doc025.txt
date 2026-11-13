@@ -1,0 +1,19 @@
+﻿┌────────────────────────────────────────────────────────────────────────────┐
+│ HORIZONTE DE FERRO // ARQUIVO CENTRAL                                      │
+│ TERMINAL DE SERVIÇO                                                        │
+│                                                                            │
+│ O terminal de serviço fica no local3.                                      │
+│                                                                            │
+│ O PM-04 é um terminal de serviço municipal. A conta do gabinete admite uso │
+│ por servidores de plantão. Para identificar a pessoa que retirou o         │
+│ recipiente, use a identificação presencial registrada em Controle de       │
+│ acesso.                                                                    │
+│                                                                            │
+│ O terminal registra ordens abertas pela conta de serviço e indica quando   │
+│ um protocolo foi consultado. Em alguns turnos, mais de um servidor pode    │
+│ operar a mesma conta, conforme a escala.                                   │
+│                                                                            │
+│ Para uma retirada de carga, a estação pede identificação presencial e      │
+│ guarda o evento no controle de acesso. Esse registro tem a descrição do    │
+│ volume e permite conferir a identidade associada à saída.                  │
+└────────────────────────────────────────────────────────────────────────────┘
